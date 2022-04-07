@@ -1,0 +1,6 @@
+C:\Users\giovanni.brogiolo\source\repos\CarbonApp\CarbonApp\bin\Debug\CarbonApp.dll
+C:\Users\giovanni.brogiolo\source\repos\CarbonApp\CarbonApp\bin\Debug\CarbonApp.pdb
+C:\Users\giovanni.brogiolo\source\repos\CarbonApp\CarbonApp\obj\Debug\CarbonApp.csproj.AssemblyReference.cache
+C:\Users\giovanni.brogiolo\source\repos\CarbonApp\CarbonApp\obj\Debug\CarbonApp.csproj.CoreCompileInputs.cache
+C:\Users\giovanni.brogiolo\source\repos\CarbonApp\CarbonApp\obj\Debug\CarbonApp.dll
+C:\Users\giovanni.brogiolo\source\repos\CarbonApp\CarbonApp\obj\Debug\CarbonApp.pdb
