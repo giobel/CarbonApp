@@ -44,13 +44,8 @@ namespace RevitCarbonApp
                 Debug.Print(e.Name);
             }
 
-            // Modify document within a transaction
+            // Hello from SharedParameterCreator Branch!
 
-            using (Transaction tx = new Transaction(doc))
-            {
-                tx.Start("Transaction Name");
-                tx.Commit();
-            }
 
             return Result.Succeeded;
         }

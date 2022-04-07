@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RevitCarbonApp"
   ],
+  "SelectedNode": "\\RevitCarbonApp\\RevitCarbonApp.sln",
   "PreviewInSolutionExplorer": false
 }
