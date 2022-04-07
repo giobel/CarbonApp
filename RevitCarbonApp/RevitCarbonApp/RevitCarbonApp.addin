@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitCarbonApp</Text>
+    <Description>Some description for RevitCarbonApp</Description>
+    <Assembly>RevitCarbonApp.dll</Assembly>
+    <FullClassName>RevitCarbonApp.Command</FullClassName>
+    <ClientId>a9351f42-2ddc-4031-8951-927e185b815c</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitCarbonApp</Name>
+    <Assembly>RevitCarbonApp.dll</Assembly>
+    <FullClassName>RevitCarbonApp.App</FullClassName>
+    <ClientId>a5f75b34-d075-4ce4-b949-237fb3ff3dcf</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
