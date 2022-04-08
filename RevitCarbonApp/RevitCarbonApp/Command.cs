@@ -44,8 +44,8 @@ namespace RevitCarbonApp
                 Debug.Print(e.Name);
             }
 
-            // Hello from SharedParameterCreator Branch!
-            TaskDialog.Show("Hello", "Hello from SharedParameterCreator Branch!");
+            // Hello from CSV Exporter Branch!
+            TaskDialog.Show("Hello", "Hello from CSV Exporter Branch!");
 
             return Result.Succeeded;
         }
