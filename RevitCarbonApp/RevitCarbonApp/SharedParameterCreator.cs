@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RevitCarbonApp
 {
-    internal class ModelValidator
+    internal class SharedParameterCreator
     {
     }
 }
