@@ -52,7 +52,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App.cs" />
+    <Compile Include="CarbonSharedParametersImport.cs" />
     <Compile Include="Command.cs" />
+    <Compile Include="HelperClasses\CreateSharedParametersBase.cs" />
     <Compile Include="ModelValidator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
